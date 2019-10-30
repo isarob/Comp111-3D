@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Lightbox.unity
+- path: Assets/Particles.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
